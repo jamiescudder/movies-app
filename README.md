@@ -1,4 +1,4 @@
-# moveies-app
+# movies-app
 
 ## Project setup
 ```
